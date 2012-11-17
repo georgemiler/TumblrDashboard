@@ -1,0 +1,6 @@
+Tumblr Dashboard Viewer
+========================
+
+A simple application utilising the Tumblr.com v2 (OAUTH) API.
+
+It turns your Tumblr dashboard feed of photos into a gallery using the very exellent jQuery Cycle plugin by @malsup.
