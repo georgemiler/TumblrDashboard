@@ -1,0 +1,62 @@
+*
+{
+    font-family: Helvetica, Geneva, sans-serif;
+}
+
+body 
+{
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+.navbar-inner button
+{
+	margin-left: 10px;
+}
+
+#item-counter
+{
+	left: 25%;
+	position: relative;
+	top: 7px;
+}
+
+#slideshow
+{
+	margin-bottom: 10px;
+}
+
+#slideshow .slide 
+{ 
+}
+
+#slideshow .slide img 
+{
+	display: block; 
+	margin: auto;
+}
+
+
+#dashboard
+{
+	overflow: hidden;
+}
+
+.box 
+{
+	display: inline;
+	float: left;
+	margin: 10px;
+}
+
+.box a 
+{
+	display: block;
+	width: 100%; 
+}
+
+.box img
+{
+	border: 1px solid #ccc;
+	display: block;
+	width: 100%;
+}
